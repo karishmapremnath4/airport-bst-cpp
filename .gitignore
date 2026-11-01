@@ -1,0 +1,15 @@
+# compiled binaries
+airports
+TASK1
+TASK2
+TASK3
+TASK4
+TASK5
+TASK6
+*.o
+*.dSYM/
+
+# files the program writes at run time
+data/list_inorder.txt
+data/preorder.txt
+data/range_BOS_BWI.txt
